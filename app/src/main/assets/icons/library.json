@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "viewBox": 24,
+  "licenses": {
+    "hand_drawn": { "name": "Reel Studio Hand-Drawn Technical Set", "license": "CC0-1.0" },
+    "health_icons": { "name": "Health Icons", "license": "CC0-1.0" },
+    "tabler_icons": { "name": "Tabler Icons", "license": "MIT" }
+  },
+  "icons": {
+    "brain": {
+      "source": "health_icons",
+      "license": "CC0-1.0",
+      "aliases": ["mind", "memory", "head", "think", "cognition"],
+      "paths": [
+        "M9.5 4C7 4 5 6 5 8.5C3.8 9.2 3 10.5 3 12C3 13.7 4 15.1 5.4 15.7C5.8 18.1 7.8 20 10.3 20H11.5V4H9.5Z",
+        "M14.5 4C17 4 19 6 19 8.5C20.2 9.2 21 10.5 21 12C21 13.7 20 15.1 18.6 15.7C18.2 18.1 16.2 20 13.7 20H12.5V4H14.5Z",
+        "M8 9.5C9.2 9.5 10 10.3 10 11.5M16 9.5C14.8 9.5 14 10.3 14 11.5M8.5 14.5C9.5 14.5 10.2 13.8 10.2 12.8M15.5 14.5C14.5 14.5 13.8 13.8 13.8 12.8"
+      ]
+    },
+    "heart": {
+      "source": "health_icons",
+      "license": "CC0-1.0",
+      "aliases": ["pulse", "cardio", "blood", "organ"],
+      "paths": [
+        "M12 20.5C12 20.5 4 15.2 4 9.2C4 6.5 6.1 4.5 8.6 4.5C10.2 4.5 11.4 5.3 12 6.5C12.6 5.3 13.8 4.5 15.4 4.5C17.9 4.5 20 6.5 20 9.2C20 15.2 12 20.5 12 20.5Z",
+        "M6.5 11.5H9.2L10.6 8.8L12.8 14L14.3 11.5H17.5"
+      ]
+    },
+    "lungs": {
+      "source": "health_icons",
+      "license": "CC0-1.0",
+      "aliases": ["breath", "oxygen", "air", "respiration"],
+      "paths": [
+        "M12 3V11M12 11L9 13M12 11L15 13",
+        "M9.5 8C6.5 8.5 4 11.5 4 16.2C4 18.5 5.4 19.5 7.5 19.5C9.3 19.5 10.2 18.4 10.2 16.5V10.5C10.2 9 10 8 9.5 8Z",
+        "M14.5 8C17.5 8.5 20 11.5 20 16.2C20 18.5 18.6 19.5 16.5 19.5C14.7 19.5 13.8 18.4 13.8 16.5V10.5C13.8 9 14 8 14.5 8Z"
+      ]
+    },
+    "eye": {
+      "source": "health_icons",
+      "license": "CC0-1.0",
+      "aliases": ["vision", "sight", "optics", "see"],
+      "paths": [
+        "M2.5 12C4.8 7.8 8.2 6 12 6C15.8 6 19.2 7.8 21.5 12C19.2 16.2 15.8 18 12 18C8.2 18 4.8 16.2 2.5 12Z",
+        "M12 15C13.66 15 15 13.66 15 12C15 10.34 13.66 9 12 9C10.34 9 9 10.34 9 12C9 13.66 10.34 15 12 15Z"
+      ]
+    },
+    "dna": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["gene", "genetics", "helix", "biology"],
+      "paths": [
+        "M7 4C7 8.5 17 8.5 17 12C17 15.5 7 15.5 7 20",
+        "M17 4C17 8.5 7 8.5 7 12C7 15.5 17 15.5 17 20",
+        "M8.5 6.5H15.5M9 12H15M8.5 17.5H15.5"
+      ]
+    },
+    "atom": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["physics", "molecule", "particle", "quantum", "chemistry"],
+      "paths": [
+        "M12 12M11 12A1 1 0 1 0 13 12A1 1 0 1 0 11 12",
+        "M5.5 7.5C7.8 5.2 12.8 6.8 16.6 10.6C20.4 14.4 22 19.4 19.7 21.7C17.4 24 12.4 22.4 8.6 18.6C4.8 14.8 3.2 9.8 5.5 7.5Z",
+        "M18.5 7.5C20.8 9.8 19.2 14.8 15.4 18.6C11.6 22.4 6.6 24 4.3 21.7C2 19.4 3.6 14.4 7.4 10.6C11.2 6.8 16.2 5.2 18.5 7.5Z"
+      ]
+    },
+    "neuron": {
+      "source": "hand_drawn",
+      "license": "CC0-1.0",
+      "aliases": ["synapse", "nerve", "signal", "cell"],
+      "paths": [
+        "M12 15C13.66 15 15 13.66 15 12C15 10.34 13.66 9 12 9C10.34 9 9 10.34 9 12C9 13.66 10.34 15 12 15Z",
+        "M12 9V4M12 4L9.5 2.5M12 4L14.5 2.5",
+        "M9.5 10.5L5 8M5 8L3 9.5M5 8L4 5.5",
+        "M14.5 10.5L19 8M19 8L21 9.5M19 8L20 5.5",
+        "M12 15V20M12 20L9.5 22M12 20L14.5 22"
+      ]
+    },
+    "lightning": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["energy", "electric", "power", "spark", "fast"],
+      "paths": [
+        "M13 3L5 14H12L11 21L19 10H12L13 3Z"
+      ]
+    },
+    "clock": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["time", "speed", "duration", "circadian", "sleep"],
+      "paths": [
+        "M12 21C16.97 21 21 16.97 21 12C21 7.03 16.97 3 12 3C7.03 3 3 7.03 3 12C3 16.97 7.03 21 12 21Z",
+        "M12 7V12L15.5 14"
+      ]
+    },
+    "microscope": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["lab", "science", "research", "zoom", "cell"],
+      "paths": [
+        "M5 21H19M7 18H15M11 4L15 8L11 12L7 8L11 4Z",
+        "M13 10C16 11.5 17.5 14.5 16 18"
+      ]
+    },
+    "shield": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["immune", "protect", "defense", "safety"],
+      "paths": [
+        "M12 3L4 6.5V11.5C4 16.5 7.4 20.1 12 21.5C16.6 20.1 20 16.5 20 11.5V6.5L12 3Z",
+        "M9.5 12L11.2 13.7L14.8 10.1"
+      ]
+    },
+    "thermometer": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["heat", "temperature", "fever", "cold", "climate"],
+      "paths": [
+        "M10 13.5V5C10 3.9 10.9 3 12 3C13.1 3 14 3.9 14 5V13.5C15.2 14.3 16 15.6 16 17C16 19.2 14.2 21 12 21C9.8 21 8 19.2 8 17C8 15.6 8.8 14.3 10 13.5Z",
+        "M12 9V17"
+      ]
+    },
+    "sun": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["light", "photon", "sky", "solar", "day"],
+      "paths": [
+        "M12 16C14.21 16 16 14.21 16 12C16 9.79 14.21 8 12 8C9.79 8 8 9.79 8 12C8 14.21 9.79 16 12 16Z",
+        "M12 3V5M12 19V21M3 12H5M19 12H21M5.6 5.6L7 7M17 17L18.4 18.4M18.4 5.6L17 7M7 17L5.6 18.4"
+      ]
+    },
+    "water": {
+      "source": "hand_drawn",
+      "license": "CC0-1.0",
+      "aliases": ["drop", "liquid", "rain", "ocean", "hydrate"],
+      "paths": [
+        "M12 3C12 3 6 10.5 6 14.8C6 18.2 8.7 21 12 21C15.3 21 18 18.2 18 14.8C18 10.5 12 3 12 3Z",
+        "M9.5 15.5C9.5 17 10.6 18 12 18"
+      ]
+    },
+    "wave": {
+      "source": "hand_drawn",
+      "license": "CC0-1.0",
+      "aliases": ["frequency", "sound", "spectrum", "wavelength", "physics"],
+      "paths": [
+        "M2 12C4 6 6 6 8 12C10 18 12 18 14 12C16 6 18 6 20 12L22 12"
+      ]
+    },
+    "battery": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["charge", "atp", "mitochondria", "fuel", "store"],
+      "paths": [
+        "M4 7H18V17H4V7Z",
+        "M18 10H20.5V14H18",
+        "M7.5 10V14M11 10V14M14.5 10V14"
+      ]
+    },
+    "chip": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["cpu", "processor", "ai", "compute", "tech"],
+      "paths": [
+        "M6 6H18V18H6V6Z",
+        "M9.5 9.5H14.5V14.5H9.5V9.5Z",
+        "M9 3V6M15 3V6M9 18V21M15 18V21M3 9H6M3 15H6M18 9H21M18 15H21"
+      ]
+    },
+    "flask": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["chemistry", "reaction", "experiment", "molecule"],
+      "paths": [
+        "M9 3H15M10 3V8.5L5.2 17.6C4.7 18.5 5.4 19.6 6.4 19.6H17.6C18.6 19.6 19.3 18.5 18.8 17.6L14 8.5V3",
+        "M7.5 14.5H16.5"
+      ]
+    },
+    "rocket": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["space", "launch", "gravity", "orbit", "fast"],
+      "paths": [
+        "M12 3C15.5 5.5 17 10 16 15L12 18L8 15C7 10 8.5 5.5 12 3Z",
+        "M8 13L5 15.5V18L8.5 16.5M16 13L19 15.5V18L15.5 16.5",
+        "M12 10.5A1.2 1.2 0 1 0 12 8.1A1.2 1.2 0 1 0 12 10.5"
+      ]
+    },
+    "question": {
+      "source": "hand_drawn",
+      "license": "CC0-1.0",
+      "aliases": ["why", "mystery", "curiosity", "ask"],
+      "paths": [
+        "M9 9C9 7.3 10.3 6 12 6C13.7 6 15 7.3 15 9C15 10.6 13.5 11.4 12.2 12.2C12 12.4 12 13 12 14",
+        "M12 17.5V18"
+      ]
+    },
+    "check": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["done", "recap", "correct", "truth", "summary"],
+      "paths": [
+        "M4 12.5L9.5 18L20 6.5"
+      ]
+    },
+    "warning": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["alert", "danger", "stress", "risk"],
+      "paths": [
+        "M12 4L21 19.5H3L12 4Z",
+        "M12 10V14M12 16.8V17.2"
+      ]
+    },
+    "star": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["highlight", "key", "cosmos", "hero"],
+      "paths": [
+        "M12 3L14.7 8.5L20.8 9.4L16.4 13.7L17.4 19.8L12 16.9L6.6 19.8L7.6 13.7L3.2 9.4L9.3 8.5L12 3Z"
+      ]
+    },
+    "chart": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["data", "stat", "graph", "percent"],
+      "paths": [
+        "M4 19H20M6 15V10M11 15V6M16 15V12"
+      ]
+    },
+    "gear": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["mechanism", "system", "engine", "process"],
+      "paths": [
+        "M12 15C13.66 15 15 13.66 15 12C15 10.34 13.66 9 12 9C10.34 9 9 10.34 9 12C9 13.66 10.34 15 12 15Z",
+        "M12 3V5M12 19V21M3 12H5M19 12H21M5.6 5.6L7.2 7.2M16.8 16.8L18.4 18.4M18.4 5.6L16.8 7.2M7.2 16.8L5.6 18.4"
+      ]
+    },
+    "leaf": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["plant", "nature", "bio", "eco", "green"],
+      "paths": [
+        "M5 19C5 11 9.5 5 19 5C19 14.5 13 19 5 19Z",
+        "M5 19L14 10"
+      ]
+    },
+    "magnet": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["force", "field", "attract", "gravity"],
+      "paths": [
+        "M6 5V12C6 15.3 8.7 18 12 18C15.3 18 18 15.3 18 12V5",
+        "M6 9H9.5M14.5 9H18M9.5 5V12C9.5 13.4 10.6 14.5 12 14.5C13.4 14.5 14.5 13.4 14.5 12V5"
+      ]
+    },
+    "sound": {
+      "source": "tabler_icons",
+      "license": "MIT",
+      "aliases": ["voice", "audio", "ear", "echo"],
+      "paths": [
+        "M4 10V14H8L13 18V6L8 10H4Z",
+        "M16.5 9C17.6 10.2 17.6 13.8 16.5 15M19 6.8C21.2 9.4 21.2 14.6 19 17.2"
+      ]
+    },
+    "lightbulb": {
+      "source": "hand_drawn",
+      "license": "CC0-1.0",
+      "aliases": ["idea", "concept", "insight", "eureka"],
+      "paths": [
+        "M9 17H15M10 20H14M12 4C8.7 4 6.5 6.4 6.5 9.2C6.5 11.4 7.8 12.8 9 14.2C9.4 14.7 9.6 15.3 9.7 16H14.3C14.4 15.3 14.6 14.7 15 14.2C16.2 12.8 17.5 11.4 17.5 9.2C17.5 6.4 15.3 4 12 4Z"
+      ]
+    }
+  }
+}

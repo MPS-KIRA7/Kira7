@@ -1,0 +1,6 @@
+{
+  "name": "Reel Studio",
+  "description": "استوديو إنتاج ريلز علمية عربية عمودية (1080×1920) باللهجة المصرية مع مزامنة الكلمات ورسم تقني داكن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

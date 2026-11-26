@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reel Studio</string>
+    <string name="series_tag">عارف ليه؟</string>
+    <string name="tab_studio">الاستوديو</string>
+    <string name="tab_preview">المعاينة</string>
+    <string name="tab_templates">القوالب</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="topic_placeholder">مثال: ليه السماء لونها أزرق؟</string>
+    <string name="start_pipeline">ابدأ الإنتاج</string>
+    <string name="approve_stage">موافقة ومتابعة</string>
+    <string name="rerun_stage">إعادة التشغيل</string>
+    <string name="cancel_stage">إلغاء</string>
+    <string name="export_mp4">تصدير MP4 (1080×1920)</string>
+    <string name="share_video">مشاركة الفيديو</string>
+    <string name="load_voices">تحميل الأصوات</string>
+    <string name="upload_audio">رفع ملف صوتي</string>
+    <string name="choose_font">اختيار خط عربي مخصص</string>
+</resources>
